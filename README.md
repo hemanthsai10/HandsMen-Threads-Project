@@ -42,7 +42,7 @@ HandsMen Threads leveraged Salesforce to:
 ## 🚀 Features Implemented
 
 - Real-time order confirmation emails
-- Dynamic loyalty tier management (Silver, Gold)
+- Dynamic loyalty tier management (Silver, Gold, Bronze)
 - Inventory threshold alert notifications
 - Midnight batch processing for inventory and financial updates
 - Data validation through Apex triggers and Flow automation
@@ -59,17 +59,6 @@ HandsMen Threads leveraged Salesforce to:
 6. Testing & QA
 7. Deployment & Go-Live
 8. Post-Go-Live Enhancements
-
----
-
-## 🔮 Future Enhancements
-
-- AI-based recommendations (Einstein AI)
-- Tiered loyalty rewards and redemptions
-- Omni-channel customer service (WhatsApp, SMS)
-- Real-time mobile integration
-- Advanced analytics using Tableau CRM
-- Integration with ERP and eCommerce platforms
 
 ---
 
